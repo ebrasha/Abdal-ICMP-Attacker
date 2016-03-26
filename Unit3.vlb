@@ -1,0 +1,17 @@
+﻿[]
+Coordinates=103,123,82,33
+Visible=True
+
+[Image1]
+Coordinates=103,1,49,51
+Visible=True
+
+[ListBox1]
+Coordinates=0,0,84,105
+
+[RadioButton1]
+Coordinates=103,71,81,33
+
+[RadioButton2]
+Coordinates=14,124,81,33
+
